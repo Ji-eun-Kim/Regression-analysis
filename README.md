@@ -84,4 +84,4 @@
 ## 6. 발표 자료 및 데이터
 
 - 발표 자료  
-https://github.com/Ji-eun-Kim/Regression-analysis
+https://drive.google.com/file/d/1V8_wF55W4nAaWJsTTHvBuGc5wr7EZbB9/view
