@@ -1,6 +1,10 @@
-# 2019 국민건강영양조사 데이터를 활용한 행복결정요인 분석 - 수면과 월평균 가구총소득 중심으로
+<h2 align='center'> 행복결정요인 분석 - 수면과 월평균 가구총소득 중심으로 </h2>
+<h3 align='center'> [전공] 회귀분석 Project </h3>
+<h4 align='center'> (2022.05. ~ 2022.06.)
 
-<br/>
+![Aqua Lines](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+&nbsp;
 
 ## 1. 배경 및 목적
 
